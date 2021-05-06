@@ -1,5 +1,13 @@
-# StatelessWidget
-### Il contenuto del widget *non cambia* durante il ciclo di vita
+# SECTION SUMMARY
 
-# StatefulWidget
-### Il contenuto del widget *può cambiare* durante il ciclo di vita
+## What I've learned in this section:
+\|-----------------------------------------------------|
+- Flutter CLI
+- Widget Tree
+- MaterialApp
+- Scaffold
+- AppBar
+- SingleChildScrollView
+- Column
+- Text, Image, RaisedButton
+- SnackBar
