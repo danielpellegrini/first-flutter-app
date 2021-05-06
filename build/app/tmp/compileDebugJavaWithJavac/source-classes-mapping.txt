@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/ciao_rut_flet/BuildConfig.java
+ com.example.ciao_rut_flet.BuildConfig
